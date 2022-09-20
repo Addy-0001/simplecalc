@@ -29,9 +29,3 @@ function updateRate()
     //Put the value instead of 10.25%
     document.getElementById("rate_val").innerHTML = rateval+ "%";
 }
-
-function headingUnderline()
-{
-    var headUnder = getElementById("heading1").value
-    document.getElementById("headUnder").innerHTML = 
-}
