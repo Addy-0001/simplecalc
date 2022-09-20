@@ -9,6 +9,10 @@ h1 {
     font-family: verdana
 }
 
+.a:hover {
+    text-decoration: underline;
+}
+
 .maindiv {
     background-color: white;
     color: black;
